@@ -54,7 +54,7 @@ msgid "For how long to record a sample and report result"
 msgstr "錄製取樣並回報結果的時間長度"
 
 #. settings-schema.json->sleep-time->description
-msgid "How long to wait before recoring another sample"
+msgid "How long to wait before recording another sample"
 msgstr "再次取樣前的等待時間"
 
 #. settings-schema.json->enable-bt-only->description
